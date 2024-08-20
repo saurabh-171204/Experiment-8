@@ -1,5 +1,5 @@
-//SARA KANYAL
-//23070123115
+//SAURABH BIHANI
+//23070123166
 //To study and implement C++ 2D Array Matrices 
 #include <iostream>
 using namespace std;
