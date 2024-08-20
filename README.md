@@ -64,6 +64,8 @@ int main() {
     }
 }
 ```
+![81](https://github.com/user-attachments/assets/2abdb9b3-eb6c-4e3f-8573-953586e84f51)
+
  B : Addition of two matrices
  ```
 //Addition of two matrices
@@ -109,6 +111,8 @@ int main() {
     
 }
 ```
+![82](https://github.com/user-attachments/assets/4b9c4999-f88a-4a0d-bc30-d6ed40f46d2b)
+
 C: Subtraction of two matrices
 ```
 //Subtraction of two matrices
@@ -154,6 +158,8 @@ int main() {
     
 }
 ```
+![83](https://github.com/user-attachments/assets/a216f28b-1c86-465e-a9dd-eddb7a27cbcb)
+
 D : Multiplication of two matrices
 ```
 // Matrix multiplication 
@@ -223,6 +229,8 @@ int main() {
     return 0;
 }
 ```
+![84](https://github.com/user-attachments/assets/3077d5c2-a0dc-468b-b4b7-00df88eacd46)
+
 E : Transpose of a matrix
 ```
 #include <iostream>
@@ -265,6 +273,8 @@ int main() {
     return 0;
 }
 ```
+![85](https://github.com/user-attachments/assets/713fb4b3-b3b2-4197-87cf-bcf07a956cfc)
+
  F : Diagnol addition of a matrix
  ```
 //DIAGONAL ADDITION 
@@ -297,6 +307,8 @@ int main()
 return 0;
 }
 ```
+![86](https://github.com/user-attachments/assets/aa04f190-b6f0-4f58-8c37-f7e526038bf5)
+
 ## CONCLUSION
 This experiment provides valuable insight into fundamental concepts in programming, particularly in handling data structures that require multi-dimensional organization. Through this process, we gain a deeper understanding of how to:
 
